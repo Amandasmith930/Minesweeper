@@ -1,0 +1,5 @@
+"/Users/admin/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/admin/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja /Users/admin/CLionProjects/minesweeper
+-- Found SFML 2.5.1 in /usr/local/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/admin/CLionProjects/minesweeper/cmake-build-debug
